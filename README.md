@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamay Karagülle</h1>
 <h3 align="center">A software developer from Istanbul, Turkey</h3>
 
-- 🌱 I’m currently learning **CS50's Introduction to Computer Science Course**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 📫 How to reach me **tamaykaragulle5@gmail.com**
 
